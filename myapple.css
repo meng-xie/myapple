@@ -1,0 +1,33 @@
+a {
+
+}
+li{
+  list-style-type: none;
+  margin :0 15px;
+   padding:26px;
+display: inline-block;
+ color:  white;
+}
+nav{
+  background-color: black;
+  margin: 0;
+}
+h1{
+  text-align: center;
+  margin: 0 25px 0 1px;
+}
+h4{
+  text-align: center;
+  margin: 5px;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+div{
+  background-color: #F9F0EB;
+  margin: 0;
+}
